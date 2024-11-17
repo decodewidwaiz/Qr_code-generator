@@ -4,7 +4,7 @@ A simple and efficient QR Code generator built with Python. This project allows 
 
 ## Features
 
-- Save QR codes as image files (PNG, JPEG).
+- Save QR codes as image files (PNG).
 - Customizable QR code settings (size, error correction level).
 - Simple command-line interface.
 
