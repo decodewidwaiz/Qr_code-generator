@@ -1,6 +1,6 @@
 # QR Code Generator
 
-A simple and efficient QR Code generator built with Python. This project allows users to create QR codes from text, which can be useful for various applications such as sharing URLs, contact information, or any other text data.
+Simple and efficient QR Code generator built with Python. This project allows users to create QR codes from text, which can be useful for various applications such as sharing URLs, contact information, or any other text data.
 
 ## Features
 
